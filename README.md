@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/mCXC181k/20230120-115735.jpg" alt="Banner" width="80%" height="100px"/>
+<img src="https://i.ibb.co/mCXC181k/20230120-115735.jpg" alt="Banner" width="80%" height="300px"/>
 
 <h1 align="center">Hi there 👋, I'm Sabrinahossain Lira</h1>
 <h3 align="center">Frontend Developer | JavaScript Enthusiast | React Learner</h3>
