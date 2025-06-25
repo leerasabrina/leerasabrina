@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/vV4rjTy/developer-banner.jpg" alt="Banner" width="100%" />
+<img src="https://i.ibb.co/mCXC181k/20230120-115735.jpg" alt="Banner" width="100%" />
 
 <h1 align="center">Hi there 👋, I'm Sabrinahossain Lira</h1>
 <h3 align="center">Frontend Developer | JavaScript Enthusiast | React Learner</h3>
@@ -12,7 +12,7 @@ I'm a passionate frontend developer who loves crafting responsive and interactiv
 
 - 🌱 I’m currently exploring **Next.js**
 - 🔭 I’m working on a **freelancing platform project**
-- 📫 You can reach me at: sabrinahossain@example.com
+- 📫 You can reach me at: lsabrinahossain@gmail.com
 
 ---
 
@@ -47,9 +47,5 @@ I'm a passionate frontend developer who loves crafting responsive and interactiv
 
 ---
 
-### 📌 Pinned Projects
 
-Pin at least 3 of your best repositories from your GitHub profile.
-
----
 
