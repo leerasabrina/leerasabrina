@@ -48,11 +48,22 @@ I'm a passionate frontend developer who loves crafting responsive and interactiv
 </p>
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leerasabrina&show_icons=true&theme=radical" alt="Sabrina's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leerasabrina&theme=radical" alt="GitHub Streak"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leerasabrina&layout=compact&theme=radical" />
+</p>
+
+---
 
 
 ### 📌 Pinned Projects
-- [Tourism Website](https://github.com/leerasabrina/tourism-website)
-- [Freelancing Platform](https://github.com/leerasabrina/freelance-platform)
-- [Online Book-shop App](https://github.com/leerasabrina/ecommerce-app)
+- [Online_Vegetable_Shop Website](https://github.com/leerasabrina/veggie_hut_client-side)
+- [Freelancing Platform](https://github.com/leerasabrina/freelancer_client_side)
+- [Online Book-shop App](https://github.com/leerasabrina/readify_client_side)
 
 
