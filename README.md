@@ -50,5 +50,9 @@ I'm a passionate frontend developer who loves crafting responsive and interactiv
 ---
 
 
+### 📌 Pinned Projects
+- [Tourism Website](https://github.com/leerasabrina/tourism-website)
+- [Freelancing Platform](https://github.com/leerasabrina/freelance-platform)
+- [Online Book-shop App](https://github.com/leerasabrina/ecommerce-app)
 
 
